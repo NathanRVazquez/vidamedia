@@ -2,7 +2,7 @@
 
 This Website is a photography company I want to work on through out the semester. Me and my partner are passionate about photography and I want to use this website to attract more clients. The goal for this first assignment was to build out a few pages of the website so I could practice my skills with Bootstrap and CSS
 
-Link to assignment: https://nathanvazquez.github.io/vidamedia/
+Link to assignment: https://nathanrvazquez.github.io/vidamedia/
 
 ## Structure of the page
 
